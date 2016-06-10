@@ -1,6 +1,6 @@
 # 42sh
 
-![alt tag](./bonus/res/kalaBG.png)
+![Alt Text](./.intro.gif)
 
 42sh is the last (and biggest) project of Epitech's first year. We had to recreate a tcsh-like shell in C. We chosed to call ours kalaSH.
 
