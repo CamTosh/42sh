@@ -9,8 +9,8 @@
 ### Classical features
 
 + Command execution.
-+ echo, env, setenv, unsetenv and cd builtins.
-+ multi-pipes
++ Echo, env, setenv, unsetenv and cd builtins.
++ Multi-pipes.
 + && and ||
 
 ### Advanced aliases (with alias loop detection)
@@ -50,3 +50,9 @@ Through a pty, this terminal can interact with any shell.
 + Matthias **Alif**
 + Pierre **Said**
 + Timour **Almazov**
+
+## Score
+
+Keynote : **20**
+
+![Alt Text](./.keynote.png)
