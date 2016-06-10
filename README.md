@@ -8,10 +8,10 @@
 
 ### Classical features
 
-+Command execution.
-+echo, env, setenv, unsetenv and cd builtins.
-+multi-pipes
-+&& and ||
++ Command execution.
++ echo, env, setenv, unsetenv and cd builtins.
++ multi-pipes
++ && and ||
 
 ### Advanced aliases (with alias loop detection)
 
@@ -45,8 +45,8 @@ Through a pty, this terminal can interact with any shell.
 
 ## Team
 
-+Guillaume **Benard**
-+Iulian **Rotaru**
-+Matthias **Alif**
-+Pierre **Said**
-+Timour **Almazov**
++ Guillaume **Benard**
++ Iulian **Rotaru**
++ Matthias **Alif**
++ Pierre **Said**
++ Timour **Almazov**
